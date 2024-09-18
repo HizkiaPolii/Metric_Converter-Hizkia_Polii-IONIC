@@ -1,0 +1,7 @@
+{
+  "name": "Metric Converter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
