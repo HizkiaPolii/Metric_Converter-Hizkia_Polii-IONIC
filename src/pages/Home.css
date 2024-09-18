@@ -1,6 +1,6 @@
 /* Styling untuk header */
 .appheader {
-  background-color: white;
+  background-color: rgb(255, 252, 252);
   color: black;
   padding: 10px;
   text-align: center;
@@ -30,7 +30,7 @@
 
 /* Styling untuk konten */
 .body {
-  background-color: #6d6b6b; /* Warna abu-abu untuk latar belakang konten */
+  background-color: #9b9b9b; /* Warna abu-abu untuk latar belakang konten */
   padding: 20px;
   min-height: 100vh; /* Memastikan konten menempati seluruh tinggi layar */
 }
