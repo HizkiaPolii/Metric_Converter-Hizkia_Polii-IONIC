@@ -9,7 +9,7 @@ Metric Converter adalah aplikasi yang dirancang menggunakan framework IONIC. Apl
 ![Preview-app](https://github.com/user-attachments/assets/58c0b059-612c-4661-b4f6-f3abf10fe154)
 
 <h1>LINK GOOGLE DRIVE</h1>
-<a href="https://drive.google.com/file/d/1N_1XMyzaF33o7MYcc-CpWAyaeXW4Mz0i/view?usp=drive_link">Pencet Disini</a>
+<a href="https://drive.google.com/file/d/1ydDfh4VsPNbg5BtV6DEj-TAFvijN6YhT/view?usp=sharing">Pencet Disini</a>
 
 <h1>FITUR APLIKASI</h1>
 
