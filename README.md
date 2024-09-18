@@ -6,4 +6,4 @@ Metric Converter adalah aplikasi yang dirancang menggunakan framework IONIC. Apl
 
 <h1>PREVIEW</h1>
 
-
+![Preview-app](https://github.com/user-attachments/assets/58c0b059-612c-4661-b4f6-f3abf10fe154)
