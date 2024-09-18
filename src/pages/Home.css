@@ -1,0 +1,17 @@
+.name {
+  padding: 10px;
+  gap: 5px;
+}
+
+.name {
+  background-color: gray;
+}
+
+.name h2,
+p {
+  color: black;
+}
+
+.body {
+  margin: 20px;
+}
