@@ -132,9 +132,14 @@ const Home: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
-        <div className="name">
-          <h2>Metric Converter</h2>
-          <p>By Hizkia Polii</p>
+        <div className="appheader">
+          <div className="logo">
+            <img src="../assets/Logo.jpeg" alt="logo" />
+          </div>
+          <div className="name">
+            <h2>Metric Converter</h2>
+            <p>By Hizkia Polii</p>
+          </div>
         </div>
       </IonHeader>
       <IonContent fullscreen>

@@ -1,17 +1,49 @@
-.name {
-  padding: 10px;
-  gap: 5px;
-}
-
-.name {
-  background-color: gray;
-}
-
-.name h2,
-p {
+/* Styling untuk header */
+.appheader {
+  background-color: white;
   color: black;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  border-bottom: 2px solid #ccc;
+  gap: 15px;
+  border-radius: 10px;
 }
 
+.logo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.name h2 {
+  padding-top: 25px;
+  margin: 0;
+  font-size: 24px;
+}
+
+.name p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+/* Styling untuk konten */
 .body {
-  margin: 20px;
+  background-color: #6d6b6b; /* Warna abu-abu untuk latar belakang konten */
+  padding: 20px;
+  min-height: 100vh; /* Memastikan konten menempati seluruh tinggi layar */
+}
+
+IonItem {
+  margin: 15px 0;
+}
+
+IonLabel,
+IonText {
+  font-size: 16px;
+}
+
+IonInput {
+  font-size: 16px;
 }
